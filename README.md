@@ -5,7 +5,8 @@ A collection of beginner-friendly Python projects created while learning program
 ## Current Projects
 - Countdown Timer
 - Quiz Game
-- Concession stand
+- Concession Stand
+- Number Guessing Game
 
 ## Goals
 - Improve Python programming skills
