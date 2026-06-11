@@ -1,7 +1,7 @@
 import random
 
-lowest_num = 1
-highest_num = 100
+lowest_num = int(input("Enter the starting number:"))
+highest_num = int(input("Enter the ending number:"))
 answer = random.randint(lowest_num, highest_num)
 guesses = 0
 is_running = True
