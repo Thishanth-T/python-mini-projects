@@ -9,6 +9,7 @@ A collection of beginner-friendly Python projects created while learning program
 - Number Guessing Game
 - Rock Paper Scissor Game
 - Dice Rolling Game
+- Slot Machine Game
 
 ## Goals
 - Improve Python programming skills
