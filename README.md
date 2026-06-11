@@ -7,6 +7,8 @@ A collection of beginner-friendly Python projects created while learning program
 - Quiz Game
 - Concession Stand
 - Number Guessing Game
+- Rock Paper Scissor Game
+- Dice Rolling Game
 
 ## Goals
 - Improve Python programming skills
