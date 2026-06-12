@@ -11,6 +11,7 @@ A collection of beginner-friendly Python projects created while learning program
 - Dice Rolling Game
 - Slot Machine Game
 - Encryption Program
+- Hangman Game
 
 ## Goals
 - Improve Python programming skills
