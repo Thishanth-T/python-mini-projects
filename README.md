@@ -12,6 +12,7 @@ A collection of beginner-friendly Python projects created while learning program
 - Slot Machine Game
 - Encryption Program
 - Hangman Game
+- Alarm Clock
 
 ## Goals
 - Improve Python programming skills
